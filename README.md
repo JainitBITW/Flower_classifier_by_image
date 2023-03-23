@@ -4,7 +4,9 @@ Project code for Udacity's AI Programming with Python Nanodegree program. In thi
 
 # Use
 ### you can either use the jupyter notebook or the command line application
-
+# dataset 
+### you can download the dataset from the following link
+[Flowers Dataset](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/jainit_bafna_research_iiit_ac_in/EfPMMC6CIqNFize7tP1txNEBIRSLD2UYz9jIpf6Q3TRXfw?e=tHFwJm)
 ## Jupyter Notebook
 ### open the jupyter notebook and run the cells
 ### one can easily change the hyperparameters and the model architecture and see the results
