@@ -11,8 +11,8 @@ Project code for Udacity's AI Programming with Python Nanodegree program. In thi
 
 ## Command Line Application
 ### train a new network on a data set with train.py
-### this suports  densenet121, vgg16 or alexnet as model architecture
-### this also suports gpu training
+### this supports  densenet121, vgg16 or alexnet as model architecture
+### this also supports gpu training
 ### Basic usage: python train.py data_directory
 ### Prints out training loss, validation loss, and validation accuracy as the network trains
 ### Options:
