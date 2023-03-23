@@ -30,7 +30,7 @@ Project code for Udacity's AI Programming with Python Nanodegree program. In thi
 
 ### Set hyperparameters: 
 ```
-python train.py data_dir --learning_rate 0.01 --hidden_units 512 --epochs 20 (default is 0.5(the 0.54 learning rate is decreasing after every two epochs ) 512 3)
+python train.py data_dir --learning_rate 0.01 --hidden_units 512 --epochs 20 (default is 0.5(the 0.5 learning rate is decreasing after every two epochs ) 512 3)
 ```
 
 ### Use GPU for training:
